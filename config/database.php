@@ -2,7 +2,7 @@
 
 define('DB_HOST', 'localhost');
 define('DB_USER', 'Virag');
-define('DB_PASS', 'Beautyflower1');
+define('DB_PASS', '');
 define('DB_NAME', 'php_dev');
 
 // Create connection
